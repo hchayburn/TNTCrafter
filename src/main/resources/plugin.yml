@@ -4,4 +4,4 @@ version: 1.0
 author: hchayburn
 commands:
    tntcrafter:
-g
+      description: Fast crafts TNT.
