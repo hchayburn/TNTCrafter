@@ -1,0 +1,7 @@
+name: PriorityTNT
+main: net.hchayburn.tntcrafter.TNTCrafter
+version: 1.0
+author: hchayburn
+commands:
+   tntcrafter:
+g
